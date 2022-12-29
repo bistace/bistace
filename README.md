@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on genome assembly and recreating popular games in Rust<br>🌱 I’m currently learning machine learning<br>⚡ Obscure programming languages aficionado 
+🔭 I’m currently working on genome assembly and recreating popular games in Rust<br>⚡ Obscure programming languages aficionado 
 
 
 ## 🌐 Socials:
