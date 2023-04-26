@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=bistace&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bistace&theme=dark&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (only public repos)
 ![](https://github-profile-trophy.vercel.app/?username=bistace&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
